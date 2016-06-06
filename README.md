@@ -1,1 +1,1 @@
-# pixel-generator
+#Pixelart Generator
